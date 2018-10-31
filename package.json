@@ -1,0 +1,25 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "Node.js static Web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henry-boter/anydoor.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "bob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henry-boter/anydoor/issues"
+  },
+  "homepage": "https://github.com/Henry-boter/anydoor#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
